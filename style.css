@@ -1,8 +1,11 @@
 
+  h1 {
+    color:rgb(55, 36, 20);
+  };
   li {
-    font-family: 'Times New Roman', Times, serif;
     color:lightslategrey
   };
   body {
-    background-color: burlywood
+    background-color:rgb(30, 57, 75);
+    font-family: 'Times New Roman', Times, serif;
   };
