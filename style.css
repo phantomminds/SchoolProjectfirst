@@ -5,6 +5,7 @@ h1, h2, h3 {
 }
 li {
     color:rgb(95, 90, 61);
+    text-align: center;
 }
 p, a {
   color:rgb(103, 53, 33);
@@ -23,4 +24,14 @@ footer {
 body {
     background-color:rgb(166, 110, 73);
     font-family:'Courier New', Courier, monospace;
+}
+.bookrec {
+     width: 200;
+     height: 250;
+     border: 5px solid rgb(66, 87, 56);
+     margin-bottom: auto;
+     margin-top: auto;
+}
+.centerlinks {
+    text-align: center;
 }
