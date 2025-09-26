@@ -9,7 +9,7 @@ ul, li, ol {
 p, a {
   color:rgb(103, 53, 33);
 }
-img, video {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
