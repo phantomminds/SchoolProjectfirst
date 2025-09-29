@@ -34,4 +34,8 @@ body {
 }
 .centerlinks {
     text-align: center;
+
+}
+a:hover {
+    color: crimson;
 }
