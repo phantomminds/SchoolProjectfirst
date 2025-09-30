@@ -31,11 +31,14 @@ body {
      border: 5px solid rgb(66, 87, 56);
      margin-bottom: auto;
      margin-top: auto;
+     display: grid;
 }
 .centerlinks {
     text-align: center;
-
+    border-left: 3px solid rgb(66, 87, 56);
+    border-right: 3px solid rgb(66, 87, 56);
 }
+
 a:hover {
     color: crimson;
 }
