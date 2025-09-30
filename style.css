@@ -31,7 +31,7 @@ body {
      border: 5px solid rgb(66, 87, 56);
      margin-bottom: auto;
      margin-top: auto;
-     display: inline-block;
+     display: inline-grid;
 }
 .centerlinks {
     text-align: center;
